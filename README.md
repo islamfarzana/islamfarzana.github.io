@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @islamfarzana.
-- 👀 I’m interested in programming and web developing.
-- 🌱 I’m currently developing an E-commerce application. 
+- Hi, I’m @islamfarzana.
+- I’m interested in programming and web developing.
+- I’m currently developing an E-commerce application. 
 
 <!---
 islamfarzana/islamfarzana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
