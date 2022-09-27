@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @islamfarzana.
-- 👀 I’m interested in coding and web developing.
+- 👀 I’m interested in programming and web developing.
 - 🌱 I’m currently developing an E-commerce application. 
 
 <!---
