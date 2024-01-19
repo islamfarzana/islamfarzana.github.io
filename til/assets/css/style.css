@@ -35,7 +35,7 @@ body {
   background: #003839;
 }
 .nav-top {
-  background: url("/assets/img/nav_bg.png");
+  background: url("assets/img/nav_bg.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
