@@ -1,0 +1,1763 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+    .header-menu ul li {
+        margin-right: 40px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .header-button:before {
+        display: none;
+    }
+
+    .facilities-content p {
+        width: 85%;
+    }
+
+    .footer-widget-gallery img {
+        margin: 0 7px 7px 0;
+        width: 29%;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 13%;
+        top: 20px;
+    }
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+    .header-menu ul li {
+        margin-right: 35px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .header-button:before {
+        left: 100px;
+        margin: 0;
+    }
+
+    .booking-button {
+        right: -84%;
+    }
+
+    .section-title.center:before {
+        left: 32%;
+    }
+
+    .section-title.two h1 {
+        font-size: 33px;
+        line-height: 33px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .call-do-action-area p.section-desc-2 {
+        width: 95%;
+    }
+
+    .single-feature-box::before {
+        left: -190px;
+        ;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+    }
+
+    .footer-widget-gallery img {
+        margin: 0 7px 7px 0;
+        width: 29%;
+    }
+
+    .home-three .section-title h4::before {
+        right: 62%;
+    }
+
+    .home-three .section-title h4::after {
+        right: 68%;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 15%;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 10%;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 16%;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 13%;
+    }
+
+    .home-three.blog-area .section-title h4::before {
+        right: 74%;
+    }
+
+    .home-three.blog-area .section-title h4::after {
+        right: 80%;
+    }
+
+    .home-three .blog-content a {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .about-area.inner .about-thumb {
+        margin: -55px;
+    }
+
+    .inner.facilities-area .facilities-button {
+        right: 51px;
+    }
+
+    .inner.facilities-area .facilities-button a {
+        font-size: 19px;
+    }
+
+    .room-details-check-box {
+        margin-right: 71px;
+    }
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+    .header-menu ul li {
+        margin-right: 26px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .header-button:before {
+        left: 78px;
+        margin: 0;
+    }
+
+    .booking-button {
+        right: -84%;
+    }
+
+    .section-title.center:before {
+        left: 32%;
+    }
+
+    .section-title.two h1 {
+        font-size: 33px;
+        line-height: 33px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .call-do-action-area p.section-desc-2 {
+        width: 95%;
+    }
+
+    .single-feature-box::before {
+        left: -190px;
+        ;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+    }
+
+    .footer-widget-title h4 {
+        font-size: 17px;
+    }
+
+    .footer-widget-gallery img {
+        margin: 0 7px 7px 0;
+        width: 29%;
+    }
+
+    .home-three .section-title h4::before {
+        right: 62%;
+    }
+
+    .home-three .section-title h4::after {
+        right: 68%;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 15%;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 10%;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 16%;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 13%;
+    }
+
+    .home-three.blog-area .section-title h4::before {
+        right: 74%;
+    }
+
+    .home-three.blog-area .section-title h4::after {
+        right: 80%;
+    }
+
+    .home-three .blog-content a {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .inner.facilities-area .facilities-button {
+        right: 51px;
+    }
+
+    .inner.facilities-area .facilities-button a {
+        font-size: 19px;
+    }
+
+    .room-details-check-box {
+        margin-right: 71px;
+    }
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .header-menu ul li {
+        margin-right: 16px;
+    }
+
+    .header-button:before {
+        display: none;
+    }
+
+    .hero-area {
+        height: 850px;
+        ;
+    }
+
+    .hero-content h1 {
+        font-size: 48px;
+        line-height: 50px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .booking-input-box input {
+        width: 94%;
+    }
+
+    .booking-button {
+        right: -82%;
+    }
+
+    .about-area {
+        padding: 30px 0 88px;
+    }
+
+    .room-content a {
+        font-size: 25px;
+    }
+
+    .section-title.center:before {
+        left: 28%;
+    }
+
+    .section-title.two h1 {
+        font-size: 28px;
+        line-height: 28px;
+    }
+
+    .about-conuter-box {
+        margin-right: 60px;
+    }
+
+    .facilities-area .luxury-button:before {
+        right: -100px;
+        background: #1E1E1E;
+    }
+
+    .feature-content h4 {
+        font-size: 16px;
+    }
+
+    .single-feature-box::before {
+        left: -167px;
+    }
+
+    .row.call-do-action-bg {
+        padding: 73px 26px 83px;
+    }
+
+    .facilities-area {
+        padding: 109px 0 85px;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+    }
+
+    .blog-content {
+        padding: 22px 18px 24px;
+    }
+
+    .meta-blog span {
+        margin-right: 9px;
+        margin-left: 13px;
+    }
+
+    .blog-content a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .footer-widget-title h4 {
+        font-size: 16px;
+    }
+
+    .footer-widget-gallery img {
+        margin: 0 5px 6px 0;
+        width: 31%;
+    }
+
+    .home-three .section-title h1 {
+        font-size: 29px;
+        line-height: 24px;
+    }
+
+    .home-three .section-title h4::before {
+        right: 55%;
+    }
+
+    .home-three .section-title h4::after {
+        right: 62%;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 23%;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 16%;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 19%;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 15%;
+    }
+
+    .home-three .single-facilities-box {
+        padding: 19px 22px 42px;
+    }
+
+    .home-three.blog-area .section-title h4::before {
+        right: 69%;
+    }
+
+    .home-three.blog-area .section-title h4::after {
+        right: 76%;
+    }
+
+    .home-three .blog-content a {
+        font-size: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+
+    .home-five .section-title h1 {
+        font-size: 36px;
+    }
+
+    .home-five .section-title p {
+        width: 100%;
+    }
+
+    .footer-widget-social-icon ul li i {
+        margin-right: 0px;
+    }
+
+    .about-area.inner .about-thumb {
+        margin: 0;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .inner.facilities-area .facilities-button {
+        right: 0;
+        width: 100%;
+    }
+
+    .inner.facilities-area .facilities-button i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        left: 20px;
+    }
+
+    .inner.facilities-area .facilities-button a {
+        font-size: 18px;
+    }
+
+    .style-two .single-contact-form {
+        padding: 42px 31px 60px;
+    }
+
+    .room-details-check-box {
+        margin-right: 12px;
+    }
+
+    .booking-list {
+        padding: 31px 22px 51px;
+    }
+
+    /*faqs*/
+    .widget-categories-box {
+        padding: 21px 18px 15px;
+    }
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-area {
+        display: none;
+    }
+
+    .hero-area {
+        height: 700px;
+    }
+
+    .home-1 .hero-content {
+        margin-bottom: 42px;
+    }
+
+    .hero-content h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .home-1 .luxury-button::before {
+        margin: auto;
+    }
+
+    .booking-input-box {
+        width: 33%;
+        margin-bottom: 7px;
+    }
+
+    .booking-button {
+        right: -34%;
+        top: 62%;
+    }
+
+    .section-title.center:before {
+        left: 21%;
+    }
+
+    p.section-desc-1 {
+        width: 80%;
+    }
+
+    .room-bottom-icon span::before {
+        right: -25px;
+    }
+
+    .room-content a {
+        font-size: 24px;
+    }
+
+    .about-area {
+        padding: 10px 0 88px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .single-feature-box {
+        margin-bottom: 20px;
+    }
+
+    .single-feature-box::before {
+        left: -7px;
+        z-index: 1;
+    }
+
+    .row.call-do-action-bg {
+        background-position: center left;
+        padding: 73px 58px 17px;
+    }
+
+    .call-do-action-video {
+        position: relative;
+        top: -74px;
+        left: 23px;
+    }
+
+    .facilities-area {
+        padding: 109px 0 76px;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+    }
+
+    .single-facilities-box {
+        margin-left: 48px;
+    }
+
+    .single-facilities-box.two {
+        margin-right: 60px;
+    }
+
+    .facilities-content h1 {
+        font-size: 22px;
+    }
+
+    .facilities-area .luxury-button {
+        text-align: left;
+        margin-bottom: 38px;
+    }
+
+    .luxury-button::before {
+        margin: 0;
+    }
+
+    .blog-area {
+        padding: 122px 0 99px;
+    }
+
+    .single-blog-box {
+        margin-bottom: 24px;
+    }
+
+    .blog-content {
+        padding: 22px 20px 24px;
+    }
+
+    .blog-content a {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .brand-area {
+        padding: 67px 0 107px;
+    }
+
+    .footer-area {
+        background: #1E1E1E;
+        padding: 100px 0 100px;
+    }
+
+    .hero-content {
+        margin-bottom: 100px;
+    }
+
+    .home-three .section-title h4::before {
+        right: 70%;
+        top: 20px;
+    }
+
+    .home-three .section-title h4::after {
+        right: 75%;
+        top: 17px;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 17%;
+        top: 20px;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 12%;
+        top: 17px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 24%;
+        top: 20px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 19%;
+        top: 17px;
+    }
+
+    .home-three.blog-area .luxury-button {
+        text-align: left;
+        margin-bottom: 46px;
+    }
+
+    .home-three .blog-content a {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .home-five .section-title p {
+        width: 85%;
+    }
+
+    .about-area.inner {
+        padding: 124px 0 132px;
+    }
+
+    .about-area.inner .about-thumb {
+        margin: 0;
+        margin-bottom: 31px;
+    }
+
+    .inner.about-area .col-lg-6.upper {
+        margin-bottom: 0;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .inner.facilities-area .facilities-content p {
+        width: 65%;
+    }
+
+    .inner.facilities-area .facilities-content a {
+        margin-bottom: 28px;
+    }
+
+    .inner.facilities-area .facilities-button a {
+        font-size: 18px;
+    }
+
+    .inner.facilities-area .facilities-button i {
+        left: 31px;
+    }
+
+    .room-details-check-box {
+        margin-right: 52px;
+    }
+
+    p.room-detils-desc {
+        width: 100%;
+    }
+
+    .booking-list {
+        margin-top: 31px;
+    }
+
+    .widget_search {
+        margin-top: 38px;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .loader {
+        left: 42%;
+    }
+}
+
+/* Tablet desktop :600px. */
+@media (min-width: 600px) and (max-width: 767px) {
+    .header-area {
+        display: none;
+    }
+
+    .hero-area {
+        height: 600px;
+    }
+
+    .home-1 .hero-content {
+        margin-bottom: 40px;
+    }
+
+    .hero-content h1 {
+        font-size: 34px;
+        line-height: 36px;
+    }
+
+    .home-1.hero-area .luxury-button::before {
+        margin: auto;
+        left: 0;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .row.add-bg {
+        padding: 34px 15px 82px;
+    }
+
+    .booking-input-box {
+        width: 50%;
+    }
+
+    .booking-input-box {
+        margin-bottom: 22px;
+    }
+
+    .booking-button {
+        right: -34%;
+        top: 75%;
+    }
+
+    .about-area {
+        padding: 10px 0 88px;
+    }
+
+    p.section-desc-1 {
+        width: 85%;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .section-title.center:before {
+        left: 11%;
+    }
+
+    .section-title.two h1 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    p.section-desc-2 {
+        width: 100%;
+        text-align: justify;
+    }
+
+    .single-feature-box {
+        margin-bottom: 20px;
+    }
+
+    .single-feature-box::before {
+        left: 0;
+        z-index: 1;
+    }
+
+    .row.call-do-action-bg {
+        padding: 73px 28px 18px;
+        background-position: center left;
+    }
+
+    .call-do-action-video {
+        top: -74px;
+        left: 102px;
+        position: relative;
+    }
+
+    .facilities-area .luxury-button {
+        text-align: left;
+        margin-bottom: 40px;
+    }
+
+    .luxury-button::before {
+        margin: 0;
+    }
+
+    .facilities-area {
+        padding: 106px 0 64px;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .single-facilities-box.two {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+    .facilities-number.two {
+        left: 85%;
+    }
+
+    .single-facilities-box {
+        margin-left: 0;
+    }
+
+    .facilities-number {
+        left: 85%;
+        top: -23px;
+    }
+
+    .blog-area {
+        padding: 122px 0 98px;
+    }
+
+    .single-blog-box {
+        margin-bottom: 25px;
+    }
+
+    .brand-area {
+        padding: 67px 0 105px;
+    }
+
+    .footer-area {
+        padding: 100px 0 95px;
+    }
+
+    .footer-widget-contact {
+        padding: 48px 14px 54px;
+    }
+
+    .hero-content {
+        margin-bottom: 100px;
+    }
+
+    .home-three .section-title h1 {
+        font-size: 30px;
+        line-height: 31px;
+    }
+
+    .home-three .section-title h4::before {
+        right: 60%;
+        top: 20px;
+    }
+
+    .home-three .section-title h4::after {
+        right: 66%;
+        top: 17px;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 21%;
+        top: 20px;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 15%;
+        top: 17px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 34%;
+        top: 20px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 27%;
+        top: 17px;
+    }
+
+    .home-three.blog-area .luxury-button {
+        text-align: left;
+        margin-bottom: 46px;
+    }
+
+    .home-three .blog-content a {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .home-three.blog-area .section-title h4::before {
+        right: 73%;
+        top: 20px;
+    }
+
+    .home-three.blog-area .section-title h4::after {
+        right: 79%;
+        top: 17px;
+    }
+
+    .home-five .section-title p {
+        width: 100%;
+    }
+
+    .home-five .section-title.center h1 {
+        font-size: 32px;
+        line-height: 34px;
+    }
+
+    .about-area.inner {
+        padding: 124px 0 132px;
+    }
+
+    .about-area.inner .about-thumb {
+        margin: 0;
+        margin-bottom: 31px;
+    }
+
+    .inner.about-area .col-lg-6.upper {
+        margin-bottom: 0;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .inner.facilities-area .facilities-content p {
+        width: 65%;
+    }
+
+    .inner.facilities-area .facilities-content a {
+        margin-bottom: 28px;
+    }
+
+    .inner.facilities-area .facilities-button {
+        width: 100%;
+    }
+
+    .inner.facilities-area .facilities-button a {
+        font-size: 18px;
+        padding: 0 0 0 10px;
+    }
+
+    .inner.facilities-area .facilities-button i {
+        width: 42px;
+        left: 14px;
+    }
+
+    .room-details-check-box {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+
+    p.room-detils-desc {
+        width: 100%;
+    }
+
+    .booking-list {
+        margin-top: 31px;
+    }
+
+    .widget_search {
+        margin-top: 38px;
+    }
+
+    /*find-room-area*/
+    .find-room-area .row.add-bg {
+        padding: 35px 15px 94px;
+    }
+
+    .find-room-area .booking-button {
+        right: -31%;
+        top: 75%;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .loader {
+        left: 41%;
+    }
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+    .header-area {
+        display: none;
+    }
+
+    .hero-area {
+        height: 600px;
+    }
+
+    .hero-contact {
+        display: none;
+    }
+
+    .hero-content h1 {
+        font-size: 34px;
+        line-height: 36px;
+    }
+
+    .hero-area .luxury-button::before {
+        left: 136px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .row.add-bg {
+        padding: 34px 15px 82px;
+    }
+
+    .booking-input-box {
+        margin-bottom: 22px;
+    }
+
+    .booking-input-box {
+        width: 50%;
+    }
+
+    .booking-button {
+        right: -34%;
+        top: 75%;
+    }
+
+    .about-area {
+        padding: 46px 0 88px;
+    }
+
+    .section-title.center:before {
+        left: 6%;
+    }
+
+    .section-title h1 {
+        font-size: 25px;
+        line-height: 45px;
+    }
+
+    p.section-desc-1 {
+        width: 85%;
+    }
+
+    .about-conuter-box {
+        margin-right: 70px;
+    }
+
+    .about-area .about-thumb {
+        margin: 0;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .about-area .owl-dots {
+        bottom: 34px;
+        width: 23%;
+    }
+
+    .section-title.two h1 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    p.section-desc-2 {
+        width: 100%;
+        text-align: justify;
+    }
+
+    .single-feature-box {
+        margin-bottom: 20px;
+    }
+
+    .single-feature-box::before {
+        left: 0;
+        z-index: 1;
+    }
+
+    .feature-content h4::before {
+        left: 50%;
+    }
+
+    .row.call-do-action-bg {
+        padding: 73px 28px 66px;
+        background-position: center left;
+    }
+
+    .call-do-action-video {
+        top: -74px;
+        left: 102px;
+        position: relative;
+    }
+
+    .facilities-area .luxury-button {
+        text-align: left;
+        margin-bottom: 40px;
+    }
+
+    .luxury-button::before {
+        margin: 0;
+    }
+
+    .facilities-area {
+        padding: 109px 0 66px;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .single-facilities-box.two {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+    .facilities-number.two {
+        left: 85%;
+    }
+
+    .single-facilities-box {
+        margin-left: 0;
+    }
+
+    .facilities-number {
+        left: 85%;
+        top: -23px;
+    }
+
+    .blog-area {
+        padding: 122px 0 98px;
+    }
+
+    .single-blog-box {
+        margin-bottom: 25px;
+    }
+
+    .brand-area {
+        padding: 67px 0 105px;
+    }
+
+    .footer-area {
+        padding: 100px 0 95px;
+    }
+
+    .footer-widget-content.upper {
+        margin-left: 0;
+    }
+
+    .footer-widget-content {
+        margin-top: 35px;
+    }
+
+    .home-three .section-title h1 {
+        font-size: 28px;
+        line-height: 26px;
+    }
+
+    .home-three .section-title h4::before {
+        right: 54%;
+        top: 20px;
+    }
+
+    .home-three .section-title h4::after {
+        right: 61%;
+        top: 17px;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 27%;
+        top: 20px;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 19%;
+        top: 17px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 40%;
+        top: 20px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 32%;
+        top: 17px;
+    }
+
+    .home-three.blog-area .luxury-button {
+        text-align: left;
+        margin-bottom: 46px;
+    }
+
+    .home-three .blog-content a {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .home-three.blog-area .section-title h4::before {
+        right: 70%;
+        top: 20px;
+    }
+
+    .home-three.blog-area .section-title h4::after {
+        right: 78%;
+        top: 17px;
+    }
+
+    .home-five .section-title h1 {
+        font-size: 35px;
+        line-height: 55px;
+    }
+
+    .home-five .section-title p {
+        width: 100%;
+    }
+
+    .home-five .section-title.center h1 {
+        font-size: 26px;
+        line-height: 24px;
+    }
+
+    .home-five p.section-desc2 {
+        margin: auto;
+        width: 86% !important;
+        margin-top: 48px;
+    }
+
+    .about-area.inner {
+        padding: 124px 0 132px;
+    }
+
+    .about-area.inner .about-thumb {
+        margin: 0;
+        margin-bottom: 31px;
+    }
+
+    .inner.about-area .col-lg-6.upper {
+        margin-bottom: 0;
+        padding-left: 17px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .about-area.inner .about-address p {
+        padding: 14px 84px 17px 30px;
+    }
+
+    .inner.facilities-area .facilities-content p {
+        width: 65%;
+    }
+
+    .inner.facilities-area .facilities-content a {
+        margin-bottom: 28px;
+    }
+
+    .inner.facilities-area .facilities-button {
+        width: 100%;
+    }
+
+    .style-two .row.add-backgroun {
+        padding: 98px 26px 101px;
+    }
+
+    .room-details-check-box {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+
+    p.room-detils-desc {
+        width: 100%;
+    }
+
+    .booking-list {
+        margin-top: 31px;
+    }
+
+    /*faqs*/
+    .widget_search {
+        margin-top: 38px;
+    }
+
+    /*find-room-area*/
+    .find-room-area .row.add-bg {
+        padding: 35px 15px 94px;
+    }
+
+    .find-room-area .booking-button {
+        right: -31%;
+        top: 75%;
+    }
+
+    /*breadcum*/
+    .breadcum-title h4 {
+        font-size: 40px;
+        margin-bottom: 3px;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .loader {
+        left: 39%;
+    }
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .header-area {
+        display: none;
+    }
+
+    .hero-area {
+        height: 600px;
+    }
+
+    .hero-contact {
+        display: none;
+    }
+
+    .hero-content h1 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+    .hero-area .luxury-button::before {
+        left: 57px;
+    }
+
+    .owl-next {
+        right: 13px;
+        bottom: 113px;
+    }
+
+    .owl-prev {
+        right: 74px;
+        bottom: 113px;
+    }
+
+    .row.add-bg {
+        padding: 34px 15px 82px;
+    }
+
+    .booking-input-box {
+        margin-bottom: 22px;
+    }
+
+    .booking-input-box {
+        width: 98%;
+    }
+
+    .booking-button {
+        right: -5%;
+        top: 84%;
+    }
+
+    .about-area {
+        padding: 46px 0 88px;
+    }
+
+    .section-title.center:before {
+        width: 128%;
+        left: -20%;
+    }
+
+    .section-title h1 {
+        font-size: 18px;
+        line-height: 35px;
+    }
+
+    p.section-desc-1 {
+        width: 100%;
+    }
+
+    .about-area .about-thumb {
+        margin: 0px;
+    }
+
+    .about-area .owl-dots {
+        bottom: 36px;
+        width: 33%;
+    }
+
+    .room-single-box {
+        margin: 0 0px;
+    }
+
+    .room-content {
+        padding: 16px 16px 7px;
+    }
+
+    .room-bottom-icon span::before {
+        right: -22px;
+    }
+
+    .room-bottom {
+        padding: 15px 15px 18px;
+    }
+
+    .coustomar-rating ul li i {
+        margin-left: 0px;
+    }
+
+    .about-conuter-box {
+        margin-right: 11px;
+    }
+
+    .about-counter-content h4 {
+        font-size: 58px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .about-area .col-lg-6.upper {
+        padding-left: 18px;
+    }
+
+    .section-title.two h1 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    p.section-desc-2 {
+        width: 100%;
+        text-align: justify;
+    }
+
+    .single-feature-box::before {
+        left: 0;
+        z-index: 1;
+    }
+
+    .feature-content h4::before {
+        left: 50%;
+    }
+
+    .row.call-do-action-bg {
+        padding: 73px 11px 106px;
+        background-position: center left;
+    }
+
+    .call-do-action-video {
+        top: 20px;
+        left: 8px;
+        position: relative;
+    }
+
+    .facilities-area .luxury-button {
+        text-align: left;
+        margin-bottom: 40px;
+    }
+
+    .luxury-button::before {
+        margin: 0;
+    }
+
+    .facilities-area {
+        padding: 109px 0 65px;
+    }
+
+    .facilities-thumb img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .facilities-content h1 {
+        font-size: 22px;
+    }
+
+    .single-facilities-box.two {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+    .facilities-number.two {
+        left: 85%;
+    }
+
+    .single-facilities-box {
+        margin-left: 0;
+    }
+
+    .facilities-number {
+        left: 85%;
+        top: -23px;
+    }
+
+    .blog-area {
+        padding: 122px 0 98px;
+    }
+
+    .single-blog-box {
+        margin-bottom: 25px;
+    }
+
+    .meta-blog span {
+        font-size: 15px;
+        margin-right: 17px;
+    }
+
+    .blog-content {
+        padding: 22px 15px 24px;
+    }
+
+    .blog-content a {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .brand-area {
+        padding: 67px 0 105px;
+    }
+
+    .footer-area {
+        padding: 100px 0 95px;
+    }
+
+    .footer-widget-content.upper {
+        margin-left: 0;
+    }
+
+    .footer-widget-content {
+        margin-top: 35px;
+    }
+
+    .home-three .section-title h1 {
+        font-size: 20px;
+        line-height: 15px;
+    }
+
+    .home-three .section-title h4::before {
+        right: 30%;
+        top: 20px;
+    }
+
+    .home-three .section-title h4::after {
+        right: 41%;
+        top: 17px;
+    }
+
+    .home-three .section-title.center h4::before {
+        left: 40%;
+        top: 20px;
+    }
+
+    .home-three .section-title.center h4::after {
+        left: 28%;
+        top: 17px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::before {
+        left: 58%;
+        top: 20px;
+    }
+
+    .home-three.facilities-area .section-title.center h4::after {
+        left: 45%;
+        top: 17px;
+    }
+
+    .home-three .single-facilities-box {
+        padding: 19px 20px 42px;
+    }
+
+    .home-three.blog-area .luxury-button {
+        text-align: left;
+        margin-bottom: 46px;
+    }
+
+    .home-three .blog-content a {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .home-three.blog-area .section-title h4::before {
+        right: 52%;
+        top: 20px;
+    }
+
+    .home-three.blog-area .section-title h4::after {
+        right: 63%;
+        top: 17px;
+    }
+
+    .home-five .section-title h1 {
+        font-size: 22px;
+        line-height: 46px;
+    }
+
+    .home-five .section-title p {
+        width: 100%;
+    }
+
+    .home-five .section-title.center h1 {
+        font-size: 18px;
+        line-height: 15px;
+    }
+
+    .home-five p.section-desc2 {
+        margin: auto;
+        width: 86% !important;
+        margin-top: 48px;
+    }
+
+    .breadcum-title h4 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+    .about-area.inner {
+        padding: 124px 0 132px;
+    }
+
+    .about-area.inner .about-thumb {
+        margin: 0;
+        margin-bottom: 31px;
+    }
+
+    .inner.about-area .col-lg-6.upper {
+        margin-bottom: 0;
+        padding-left: 17px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .about-area.inner .about-address p {
+        padding: 14px 84px 17px 30px;
+    }
+
+    .inner.facilities-area .facilities-content p {
+        width: 95%;
+    }
+
+    .inner.facilities-area .facilities-content a {
+        margin-bottom: 28px;
+    }
+
+    .inner.facilities-area .facilities-button {
+        width: 100%;
+    }
+
+    .inner.facilities-area .owl-prev {
+        top: -69px;
+    }
+
+    .inner.facilities-area .owl-next {
+        top: -69px;
+    }
+
+    .style-two .row.add-backgroun {
+        padding: 98px 5px 101px;
+    }
+
+    .style-two .single-contact-form {
+        padding: 42px 20px 60px;
+    }
+
+    .room-details-content h1 {
+        font-size: 28px;
+    }
+
+    .room-details-check-box {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+
+    p.check-item {
+        font-size: 15px;
+    }
+
+    p.room-detils-desc {
+        width: 100%;
+    }
+
+    .booking-list {
+        margin-top: 31px;
+        padding: 31px 17px 40px;
+    }
+
+    .room-detls-list-item ul li {
+        font-size: 15px;
+    }
+
+    .room-detls-list-item ul li i {
+        margin-right: 2px;
+    }
+
+    .find-room-area .row.add-bg {
+        padding: 35px 15px 78px;
+    }
+
+    .find-room-area .booking-input-box input {
+        width: 90% !important;
+    }
+
+    .find-room-area .booking-input-box select {
+        width: 88%;
+    }
+
+    .find-room-area .room-content a {
+        font-size: 25px;
+    }
+
+    /*faqs*/
+    .widget_search {
+        margin-top: 38px;
+        padding: 13px 18px 37px;
+    }
+
+    .widget-categories-box {
+        padding: 21px 13px 15px;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .loader {
+        left: 33%;
+    }
+}
+
+/*xl device min width*/
+/*xl device min width*/
